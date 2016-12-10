@@ -1,1 +1,1 @@
-# carBox
+Phonegap application that records data gathered from a driving trip (starting location, ending location, total distance traveled, average speed, etc.).
